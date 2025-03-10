@@ -281,13 +281,13 @@
 | picture3         | avif              | 2000x2000         | 10.2 Kb         | -96%  | 5%     |
 
 #### picture1:
-![picture1](images/lossy/avif/q50/picture1.avif "Picture 1")
+![picture1](images/lossy/avif/min/picture1.avif "Picture 1")
 
 #### picture2:
-![picture2](images/lossy/avif/q50/picture2.avif "Picture 2")
+![picture2](images/lossy/avif/min/picture2.avif "Picture 2")
 
 #### picture3:
-![picture3](images/lossy/avif/q50/picture3.avif "Picture 3")
+![picture3](images/lossy/avif/min/picture3.avif "Picture 3")
 
 ---
 
