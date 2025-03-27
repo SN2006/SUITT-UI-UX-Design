@@ -14,3 +14,9 @@ https://www.figma.com/design/OY0oIIzuPc6fsLrI6viOaK/PZ3?node-id=0-1&t=EMWeVGmxgK
 Результат:
 
 ![Medium](images/medium.png)
+
+## Advanced level
+
+Результат:
+
+![Medium](images/advanced.png)
